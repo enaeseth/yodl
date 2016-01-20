@@ -1,6 +1,9 @@
 yodl
 ====
 
+[![Build Status](https://travis-ci.org/enaeseth/yodl.svg?branch=master)](https://travis-ci.org/enaeseth/yodl)
+[![PyPI](https://img.shields.io/pypi/v/yodl.svg)](https://pypi.python.org/pypi/yodl)
+
 Use [PyYAML](http://pyyaml.org/) to load a document into a Python OrderedDict.
 
 ```py
