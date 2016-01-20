@@ -13,6 +13,10 @@ setup(
     version='1.0.0',
     py_modules=['yodl'],
 
+    url='https://github.com/enaeseth/yodl',
+    author='Eric Naeseth',
+    author_email='eric+yodl@naeseth.com',
+
     install_requires=requires,
 
     classifiers=[
